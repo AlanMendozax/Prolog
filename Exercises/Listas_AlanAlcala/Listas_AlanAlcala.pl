@@ -1,0 +1,1 @@
+lista(L) :- L = [cocodrilo,armadillo,boa,husky,petty(husky),[4,8,10]].
